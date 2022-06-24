@@ -1,0 +1,5 @@
+E:/Qt Projects/build-TCP_Server-Desktop_Qt_5_15_2_MinGW_64_bit-Debug/CMakeFiles/TCP_Server.dir
+E:/Qt Projects/build-TCP_Server-Desktop_Qt_5_15_2_MinGW_64_bit-Debug/CMakeFiles/edit_cache.dir
+E:/Qt Projects/build-TCP_Server-Desktop_Qt_5_15_2_MinGW_64_bit-Debug/CMakeFiles/rebuild_cache.dir
+E:/Qt Projects/build-TCP_Server-Desktop_Qt_5_15_2_MinGW_64_bit-Debug/CMakeFiles/TCP_Server_autogen_timestamp_deps.dir
+E:/Qt Projects/build-TCP_Server-Desktop_Qt_5_15_2_MinGW_64_bit-Debug/CMakeFiles/TCP_Server_autogen.dir
